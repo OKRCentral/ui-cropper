@@ -42,8 +42,7 @@
   "scripts": {
     "build": "gulp build",
     "lint": "gulp lint",
-    "dev": "gulp",
-    "postinstall": "opencollective-postinstall"
+    "dev": "gulp"
   },
   "dependencies": {
     "angular": ">=1.4.0"
