@@ -46,9 +46,7 @@
     "postinstall": "opencollective-postinstall"
   },
   "dependencies": {
-    "angular": ">=1.4.0",
-    "opencollective-postinstall": "^2.0.1",
-    "opencollective": "^1.0.3"
+    "angular": ">=1.4.0"
   },
   "devDependencies": {
     "connect-livereload": "^0.6.0",
@@ -70,9 +68,5 @@
     "opn": "^5.1.0",
     "run-sequence": "^2.1.0",
     "tiny-lr": "^0.0.7"
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/ui-cropper"
   }
 }
